@@ -1,0 +1,26 @@
+C:\Users\USER\source\repos\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school mangement system v-0.6.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school mangement system v-0.6.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school_mangement_system_v_0._6.Properties.Resources.resources
+C:\Users\USER\source\repos\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school_mangement_system_v_0._6.Screen.Templetes.TemplateForm.resources
+C:\Users\USER\source\repos\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school mangement system v-0.6.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school mangement system v-0.6.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\school mangement system v-0.6\school mangement system v-0.6\bin\Debug\school mangement system v-0.6.exe.config
+C:\Users\USER\source\repos\school mangement system v-0.6\school mangement system v-0.6\bin\Debug\school mangement system v-0.6.exe
+C:\Users\USER\source\repos\school mangement system v-0.6\school mangement system v-0.6\bin\Debug\school mangement system v-0.6.pdb
+C:\Users\USER\source\repos\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school mangement system v-0.6.exe
+C:\Users\USER\source\repos\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school mangement system v-0.6.pdb
+C:\Users\USER\source\repos\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school_mangement_system_v_0._6.Screen.LoginForm.resources
+C:\Users\USER\source\repos\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school_mangement_system_v_0._6.Screen.DashboardForm.resources
+E:\All C#\school mangement system v-0.6\school mangement system v-0.6\bin\Debug\school mangement system v-0.6.exe.config
+E:\All C#\school mangement system v-0.6\school mangement system v-0.6\bin\Debug\school mangement system v-0.6.exe
+E:\All C#\school mangement system v-0.6\school mangement system v-0.6\bin\Debug\school mangement system v-0.6.pdb
+E:\All C#\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school mangement system v-0.6.csproj.AssemblyReference.cache
+E:\All C#\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school mangement system v-0.6.csproj.SuggestedBindingRedirects.cache
+E:\All C#\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school_mangement_system_v_0._6.Properties.Resources.resources
+E:\All C#\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school_mangement_system_v_0._6.Screen.DashboardForm.resources
+E:\All C#\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school_mangement_system_v_0._6.Screen.LoginForm.resources
+E:\All C#\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school_mangement_system_v_0._6.Screen.Templetes.TemplateForm.resources
+E:\All C#\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school mangement system v-0.6.csproj.GenerateResource.cache
+E:\All C#\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school mangement system v-0.6.csproj.CoreCompileInputs.cache
+E:\All C#\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school mangement system v-0.6.exe
+E:\All C#\school mangement system v-0.6\school mangement system v-0.6\obj\Debug\school mangement system v-0.6.pdb
